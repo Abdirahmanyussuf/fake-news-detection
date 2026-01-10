@@ -109,7 +109,7 @@ The **Finetuned RoBERTa-base transformer with SMOTE-balanced dataset** is deploy
 
 ## Installation & Running the App
 1. Clone the repository  
-`git clone https://github.com/mwakad/fake-news-detector.git`
+`git clone https://github.com/Abdirahmanyussuf/fake-news-detector.git`
 2. Install dependencies
 `pip install -r requirements.txt` (cd deployment/backend)
 3. Run FastAPI backend
